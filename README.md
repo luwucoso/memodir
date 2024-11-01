@@ -8,7 +8,7 @@ cd into a directory for instance.
 
 ## Install
 
-Clone the repository, use go 1.24, go install, memodir should
+Clone the repository, use go 1.23, go install, memodir should
 be ready to use!
 
 ## Use
