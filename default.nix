@@ -10,7 +10,7 @@ pkgs.buildGoModule rec {
     src = ./.;
 
     meta = with pkgs.lib; {
-      description = "a possibly blazingly fast CLI tool to remember and query selected directories";
+      description = "A possibly blazingly fast CLI tool to remember and query selected directories";
       homepage = "https://github.com/sawcce/memodir";
       license = licenses.mit;
       # maintainers = with maintainers; [ # me's not on nixpkgs];
